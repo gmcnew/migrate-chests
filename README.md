@@ -11,7 +11,7 @@ If you want to create a new [Minecraft](http://minecraft.net) world and keep you
 
 First, in the old world, for each chest you want to migrate, place a sign within 16 blocks and label it like so:
 
-    > username:keyword
+    username:keyword
 
 You may use one such sign per chest, or you may use one sign for many chests. You may even use the same keyword for multiple signs.
 
